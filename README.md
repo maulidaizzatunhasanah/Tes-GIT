@@ -1,3 +1,3 @@
 # Tes-GIT
 
-Repository ini digunakan untuk testing dan belajar git
+Repository untuk testing dan belajar git
